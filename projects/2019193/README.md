@@ -4,7 +4,7 @@
 
 **Α.Μ.: Π2019193**
 
-**Github Organization: [modus-vivendi-memento-mori](https://github.com/modus-vivendi-memento-mori)
+**Github Organization: [modus-vivendi-memento-mori](https://github.com/modus-vivendi-memento-mori)**
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
